@@ -1,0 +1,1 @@
+// JavaScript for initializing Mapbox and markers
